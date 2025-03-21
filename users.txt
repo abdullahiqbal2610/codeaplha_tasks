@@ -1,0 +1,4 @@
+John Smith 25 1234567890 john@some.com pass123
+Alice Brown 30 5556667777 alice@abc.com mypass
+abdullah iqbal 20 0300123456789 iqbal@.com mycode
+rahul singh 27 81456784 email@.com 12345678
